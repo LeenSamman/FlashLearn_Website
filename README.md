@@ -1,4 +1,5 @@
 # FlashLearn - Flashcard and Summarization App
+## Tutorial on YouTube : https://youtu.be/MqZGaPJ2PyY
 ## Overview
 
 FlashLearn is a platform designed to assist learners,students and educators by offering 3 primary functionalities:
