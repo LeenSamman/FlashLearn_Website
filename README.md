@@ -34,23 +34,23 @@ FlashLearn utilizes  AI technologies, including Google Gemini api, T5 api , and 
 
 # Installation and Setup
 
-## Clone the Repository:
+1. Clone the Repository:
 
 git clone https://github.com/LeenSamman/FlashLearn-.git
 cd FlashLearn-
 
-## Create the virtual environment:
+2.  Create the virtual environment:
 python -m venv FlashCardsVenv
 
-## Activate the virtual environment
+3.  Activate the virtual environment
 On Windows: FlashCardsVenv\Scripts\activate
 On macOS/Linux:source FlashCardsVenv/bin/activate
 
-## Install Dependencies:
+4.  Install Dependencies:
 
 Using the requirements.txt file: pip install -r requirements.txt
 
-## Run the Application: 
+5.  Run the Application: 
 streamlit run Home.py
 
 
