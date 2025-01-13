@@ -19,6 +19,7 @@ FlashLearn utilizes  AI technologies, including Google Gemini api, T5 api , and 
 - **pages/2_Summarization.py**	Manages the document summarization feature. Users can upload a PDF, choose the summarization model, and set parameters.
 - **pages/get_started.py** :	The intermediate page for selecting tasks such as document summarization or flashcard generation.
 - **requirements.txt**:	Contains a list of all Python dependencies required to run the application. These can be installed via pip install -r requirements.txt.
+- **factsAboutLions.pdf**: A sample PDF to test document summarization and flashcard generation features.
 
 
 
